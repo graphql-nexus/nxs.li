@@ -1,6 +1,5 @@
 # See https://docs.netlify.com/routing/redirects/
 
 # Nexus Transition
-
-/transition/about https://github.com/prisma-labs/nexus/issues/373 301!
-/transition/migrate https://www.nexusjs.org/#/getting-started/migrate-from-nexus-schema 301!
+/schema-to-framework/about https://github.com/prisma-labs/nexus/issues/373 301!
+/schema-to-framework/migrate https://www.nexusjs.org/#/getting-started/migrate-from-nexus-schema 301!
