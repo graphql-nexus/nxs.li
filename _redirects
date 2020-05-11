@@ -1,4 +1,7 @@
-# See https://docs.netlify.com/routing/redirects/
+
+# Nexus Component Links
+/components/schema https://www.nexusjs.org/#/components/schema/about 301!
+/components/logger https://www.nexusjs.org/#/components/logger/about 301!
 
 # Nexus Transition
 / https://www.nexusjs.org 301!
