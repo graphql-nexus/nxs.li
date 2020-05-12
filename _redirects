@@ -1,7 +1,7 @@
 
-# Nexus Component Links
-/components/schema https://www.nexusjs.org/#/components/schema/about 301!
-/components/logger https://www.nexusjs.org/#/components/logger/about 301!
+# Nexus Components Standalone Links
+/components/standalone/schema https://www.nexusjs.org/#/components/schema/about 301!
+/components/standalone/logger https://www.nexusjs.org/#/components/logger/about 301!
 
 # Nexus Transition
 / https://www.nexusjs.org 301!
