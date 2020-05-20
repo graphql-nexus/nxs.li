@@ -1,11 +1,14 @@
 
-# Nexus Create Issue Links
+# Create Nexus Issues
 # These are useful, for example, to embed links within terminal output asking for feedback
 /issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=1-feature.md
 
-# Nexus Components Standalone Links
+# Standalone Component Docs
 /components/standalone/schema https://www.nexusjs.org/#/components/schema/about 301!
 /components/standalone/logger https://www.nexusjs.org/#/components/logger/about 301!
+
+# Integration Guides
+/integration/nextjs
 
 # Nexus Transition
 / https://www.nexusjs.org 301!
