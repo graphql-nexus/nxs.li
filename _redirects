@@ -8,7 +8,7 @@
 /components/standalone/logger https://www.nexusjs.org/#/components/logger/about 301!
 
 # Integration Guides
-/integration/nextjs
+/integration/nextjs https://www.nexusjs.org/#/references/recipes?id=use-with-nextjs 301!
 
 # Nexus Transition
 / https://www.nexusjs.org 301!
