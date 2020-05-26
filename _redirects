@@ -1,7 +1,41 @@
-
-# Create Nexus Issues
+# Create Issues
 # These are useful, for example, to embed links within terminal output asking for feedback
 /issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=1-feature.md
+
+# Issues By Component
+/issues/component/schema            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema                        301!
+/issues/component/schema/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema+label%3Atype%2Fbug     301!
+/issues/component/schema/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema+label%3Atype%2Ffeat    301!
+  
+/issues/component/logger            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger                        301!
+/issues/component/logger/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger+label%3Atype%2Fbug     301!
+/issues/component/logger/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger+label%3Atype%2feat     301!
+  
+/issues/component/server            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver                        301!
+/issues/component/server/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver+label%3Atype%2Fbug     301!
+/issues/component/server/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver+label%3Atype%2Ffeat    301!
+
+/issues/component/plugins           https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins                       301!
+/issues/component/plugins/bugs      https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins+label%3Atype%2Fbug    301!
+/issues/component/plugins/features  https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins+label%3Atype%2Ffeat   301!
+
+/issues/component/settings          https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings                      301!
+/issues/component/settings/bugs     https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Fbug   301!
+/issues/component/settings/features https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Ffeat  301!
+
+# API Documentation
+/docs/api/schema          https://www.nexusjs.org/#/api/modules/main/exports/schema     301!
+/docs/api/logger          https://www.nexusjs.org/#/api/modules/main/exports/logger     301!
+/docs/api/server          https://www.nexusjs.org/#/api/modules/main/exports/server     301!
+/docs/api/use-plugins     https://www.nexusjs.org/#/api/modules/main/exports/use        301!
+/docs/api/settings        https://www.nexusjs.org/#/api/modules/main/exports/settings   301!
+
+# Guide Documentation
+/docs/guides/schema     https://www.nexusjs.org/#/guides/schema     301!
+/docs/guides/logger     https://www.nexusjs.org/#/guides/logger     301!
+/docs/guides/server     https://www.nexusjs.org/#/guides/server     301!
+/docs/guides/plugins    https://www.nexusjs.org/#/guides/plugins    301!
+# TODO /docs/guides/settings https://www.nexusjs.org/#/guides/settings 301!
 
 # Standalone Component Docs
 /components/standalone/schema https://www.nexusjs.org/#/components/schema/about 301!
@@ -11,7 +45,7 @@
 /integration/nextjs https://www.nexusjs.org/#/references/recipes?id=use-with-nextjs 301!
 
 # Nexus Transition
-/ https://www.nexusjs.org 301!
-/schema-to-framework/about https://github.com/prisma-labs/nexus/issues/373 301!
-/schema-to-framework/migrate https://www.nexusjs.org/#/getting-started/migrate-from-nexus-schema 301!
-/nexus-plugin-prisma https://www.nexusjs.org/#/plugins/prisma 301!
+/                             https://www.nexusjs.org                                               301!
+/schema-to-framework/about    https://github.com/prisma-labs/nexus/issues/373                       301!
+/schema-to-framework/migrate  https://www.nexusjs.org/#/getting-started/migrate-from-nexus-schema   301!
+/nexus-plugin-prisma          https://www.nexusjs.org/#/plugins/prisma                              301!
