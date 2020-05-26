@@ -1,3 +1,10 @@
+# Community
+/tweets                https://twitter.com/nexusgql                              301!
+/discussions           https://github.com/graphql-nexus/nexus/discussions        301!
+
+# Issues
+/issues                https://github.com/graphql-nexus/nexus/issues                        301!
+
 # Create Issues
 # These are useful, for example, to embed links within terminal output asking for feedback
 /issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=1-feature.md
