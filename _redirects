@@ -3,25 +3,25 @@
 /issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=1-feature.md
 
 # Issues By Component
-/issues/component/schema            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema                        301!
-/issues/component/schema/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema+label%3Atype%2Fbug     301!
-/issues/component/schema/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema+label%3Atype%2Ffeat    301!
+/issues/components/schema            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema                        301!
+/issues/components/schema/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema+label%3Atype%2Fbug     301!
+/issues/components/schema/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema+label%3Atype%2Ffeat    301!
   
-/issues/component/logger            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger                        301!
-/issues/component/logger/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger+label%3Atype%2Fbug     301!
-/issues/component/logger/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger+label%3Atype%2feat     301!
+/issues/components/logger            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger                        301!
+/issues/components/logger/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger+label%3Atype%2Fbug     301!
+/issues/components/logger/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flogger+label%3Atype%2feat     301!
   
-/issues/component/server            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver                        301!
-/issues/component/server/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver+label%3Atype%2Fbug     301!
-/issues/component/server/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver+label%3Atype%2Ffeat    301!
+/issues/components/server            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver                        301!
+/issues/components/server/bugs       https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver+label%3Atype%2Fbug     301!
+/issues/components/server/features   https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fserver+label%3Atype%2Ffeat    301!
 
-/issues/component/plugins           https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins                       301!
-/issues/component/plugins/bugs      https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins+label%3Atype%2Fbug    301!
-/issues/component/plugins/features  https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins+label%3Atype%2Ffeat   301!
+/issues/components/plugins           https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins                       301!
+/issues/components/plugins/bugs      https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins+label%3Atype%2Fbug    301!
+/issues/components/plugins/features  https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fplugins+label%3Atype%2Ffeat   301!
 
-/issues/component/settings          https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings                      301!
-/issues/component/settings/bugs     https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Fbug   301!
-/issues/component/settings/features https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Ffeat  301!
+/issues/components/settings          https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings                      301!
+/issues/components/settings/bugs     https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Fbug   301!
+/issues/components/settings/features https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Ffeat  301!
 
 # API Documentation
 /docs/api/schema          https://www.nexusjs.org/#/api/modules/main/exports/schema     301!
