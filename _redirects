@@ -11,7 +11,8 @@
 
 # Create Issues
 # These are useful, for example, to embed links within terminal output asking for feedback
-/issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=10-feature.md
+/issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=10-feature.md 301!
+/issues/create/bug https://github.com/graphql-nexus/nexus/issues/new?assignees=&labels=type%2Fbug&template=20-bug.md&title= 301!
 
 # Issues By Component
 /issues/components/schema            https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fschema                        301!
