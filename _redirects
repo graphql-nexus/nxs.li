@@ -67,3 +67,7 @@
 
 # nexus-prisma to nexus-plugin-prisma transition
 /nexus-prisma-to-nexus-plugin-prisma/about  https://github.com/graphql-nexus/nexus-schema-plugin-prisma/issues/630 301!
+
+# Nexus' opinions (aka. philosophy)
+
+/why/bundle-dependencies https://www.nexusjs.org/#/architecture?id=dependency-philosophy 301!
