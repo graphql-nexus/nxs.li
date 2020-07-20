@@ -2,7 +2,6 @@
 
 /repo                  https://github.com/graphql-nexus/nexus                                   301!
 /tweets                https://twitter.com/nexusgql                                             301!
-/discussions           https://github.com/graphql-nexus/nexus/discussions                       301!
 /contributing          https://github.com/graphql-nexus/nexus/blob/master/CONTRIBUTING.md       301!
 /changelog             https://github.com/graphql-nexus/nexus/releases                          301!
 /changelog/canary      https://github.com/graphql-nexus/nexus/releases/tag/next                 301!
@@ -12,6 +11,11 @@
 # Learning Resources
 
 /learn/tutorial        https://nexusjs.org/getting-started/tutorial                             301!
+
+# Discussions
+
+/discussions           https://github.com/graphql-nexus/nexus/discussions                       301!
+/discussions/new       https://github.com/graphql-nexus/nexus/discussions/new                   301!
 
 # Issues
 
