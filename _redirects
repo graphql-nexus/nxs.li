@@ -91,7 +91,7 @@
 
 /                             https://nexusjs.org                                       301!
 /schema-to-framework/about    https://github.com/graphql-nexus/nexus/issues/373         301!
-/schema-to-framework/migrate  https://nexusjs.org/migration-guides/nexus-schema-users   301!
+/schema-to-framework/migrate  https://nexusjs.org/adoption-guides/nexus-users           301!
 /nexus-plugin-prisma          https://nexusjs.org/plugins/prisma                        301!
 
 # nexus-prisma to nexus-plugin-prisma transition
