@@ -101,3 +101,7 @@
 # Nexus' opinions (aka. philosophy)
 
 /why/bundle-dependencies https://nexusjs.org/meta/architecture#dependency-philosophy 301!
+
+# About things
+
+/about/reflection https://nexusjs.org/guides/lifecycle#reflection 301!
