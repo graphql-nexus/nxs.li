@@ -24,7 +24,7 @@
 # Create Issues
 # These are useful, for example, to embed links within terminal output asking for feedback
 
-/issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=10-feature.md 301!
+/issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=10-feature.md          301!
 /issues/create/bug https://github.com/graphql-nexus/nexus/issues/new?assignees=&labels=type%2Fbug&template=20-bug.md&title= 301!
 
 # Issues By Component
@@ -49,6 +49,10 @@
 /issues/components/settings/bugs     https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Fbug   301!
 /issues/components/settings/features https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Fsettings+label%3Atype%2Ffeat  301!
 
+/issues/components/testing          https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Ftesting                      301!
+/issues/components/testing/bugs     https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Ftesting+label%3Atype%2Fbug   301!
+/issues/components/testing/features https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Ftesting+label%3Atype%2Ffeat  301!
+
 #TODO create these labels
 
 /issues/components/lifecycle          https://github.com/graphql-nexus/nexus/issues?q=is%3Aopen+label%3Ascope%2Flifecycle                      301!
@@ -62,9 +66,11 @@
 /docs/api/schema          https://nexusjs.org/api/nexus/schema     301!
 /docs/api/logger          https://nexusjs.org/api/nexus/logger     301!
 /docs/api/server          https://nexusjs.org/api/nexus/server     301!
+#TODO rename to just /use
 /docs/api/use-plugins     https://nexusjs.org/api/nexus/use        301!
 /docs/api/settings        https://nexusjs.org/api/nexus/settings   301!
 /docs/api/on              https://nexusjs.org/api/nexus/on         301!
+/docs/api/testing         https://nexusjs.org/api/nexus-testing    301!
 
 # Plugins
 
@@ -72,11 +78,12 @@
 
 # Guide Documentation
 
-/docs/guides/schema     https://nexusjs.org/guides/schema        301!
-/docs/guides/logger     https://nexusjs.org/guides/logger        301!
-/docs/guides/server     https://nexusjs.org/guides/server        301!
-/docs/guides/plugins    https://nexusjs.org/guides/plugins       301!
-# TODO /docs/guides/settings https://nexusjs.org/guides/settings 301!
+/docs/guides/schema                     https://nexusjs.org/guides/schema                        301!
+/docs/guides/logger                     https://nexusjs.org/guides/logger                        301!
+/docs/guides/server                     https://nexusjs.org/guides/server                        301!
+/docs/guides/plugins                    https://nexusjs.org/guides/plugins                       301!
+/docs/guides/settings                   https://nexusjs.org/guides/configuration-management      301!
+/docs/guides/configuration-management   https://nexusjs.org/guides/configuration-management      301!
 
 # Standalone Component Docs
 
