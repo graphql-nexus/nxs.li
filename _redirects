@@ -25,6 +25,9 @@
 # Create Issues
 # These are useful, for example, to embed links within terminal output asking for feedback
 
+/prisma/issue/feature/new https://github.com/graphql-nexus/nexus/issues/new?assignees=&labels=type%2Ffeat%2C+plugin%2Fprisma&template=11-feature-prisma.md&title= 301!
+/prisma/issue/bug/new https://github.com/graphql-nexus/nexus/issues/new?assignees=&labels=type%2Fbug%2C+plugin%2Fprisma&template=21-bug-prisma.md&title= 301!
+
 /issues/create/feature https://github.com/graphql-nexus/nexus/issues/new?labels=type%2Ffeat&template=10-feature.md          301!
 /issues/create/bug https://github.com/graphql-nexus/nexus/issues/new?assignees=&labels=type%2Fbug&template=20-bug.md&title= 301!
 
