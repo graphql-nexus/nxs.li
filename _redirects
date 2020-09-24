@@ -5,7 +5,7 @@
 /contributing          https://github.com/graphql-nexus/schema/blob/develop/CONTRIBUTING.md     301!
 /changelog             https://github.com/graphql-nexus/schema/releases                         301!
 /changelog/canary      https://github.com/graphql-nexus/schema/releases/tag/next                301!
-/roadmap               https://github.com/orgs/graphql-nexus/projects/1                         301!
+/roadmap               https://github.com/orgs/graphql-nexus/projects/1                         301! # TODO this goes to a placeholder github project right now
 /docs                  https://nexusjs.org/docs                                                 301!
 /discussions           https://prisma.slack.com/archives/CM2LEN7JL                              301!
 
