@@ -9,10 +9,15 @@
 /docs                  https://nexusjs.org/docs                                                 301!
 /discussions           https://prisma.slack.com/archives/CM2LEN7JL                              301!
 
+# Tools
+
+/tools/converter       https://nexusjs.org/converter                                            301!
+/tools/playground      https://nexusjs.org/playground                                           301!
+
 # Learning Resources
 
 /learn/tutorial        https://nexusjs.org/docs/getting-started/tutorial                        301!
-/learn/examples        https://github.com/graphql-nexus/examples                                301!
+/learn/examples        https://github.com/graphql-nexus/schema/tree/develop/examples            301!
 
 # Issues
 
