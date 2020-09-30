@@ -39,7 +39,7 @@
 /plugins/prisma           https://nexusjs.org/docs/pluginss/prisma     301!
 
 # Nexus Unframework Transition
-/unframework/about                    https://github.com/graphql-nexus/issues/TODO                            301!
+/unframework/about                    https://github.com/prisma-labs/graphql-framework-experiment/issues/1432 301!
 /unframework/migrate                  https://nexusjs.org/docs/adoption-guides/nexus-framework-users          301!
 /unframework/plugin/prisma/migrate    https://nexusjs.org/docs/adoption-guides/neuxs-framework-prisma-users   301!
 
