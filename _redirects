@@ -5,7 +5,7 @@
 /contributing          https://github.com/graphql-nexus/schema/blob/develop/CONTRIBUTING.md     301!
 /changelog             https://github.com/graphql-nexus/schema/releases                         301!
 /changelog/canary      https://github.com/graphql-nexus/schema/releases/tag/next                301!
-/roadmap               https://github.com/orgs/graphql-nexus/projects/1                         301! # TODO this goes to a placeholder github project right now
+/roadmap               https://github.com/orgs/graphql-nexus/projects/1                         301!
 /docs                  https://nexusjs.org/docs                                                 301!
 /discussions           https://prisma.slack.com/archives/CM2LEN7JL                              301!
 
@@ -76,12 +76,19 @@
 /docs/api/server          https://nexusjs.org/docs     301!
 
 # Guide Documentation
+# TODO  deprecate /docs/guides to be just /guides
 
 /docs/guides/logger                     https://nexusjs.org/docs      301!
 /docs/guides/server                     https://nexusjs.org/docs      301!
 /docs/guides/plugins                    https://nexusjs.org/docs      301!
 /docs/guides/settings                   https://nexusjs.org/docs      301!
 /docs/guides/configuration-management   https://nexusjs.org/docs      301!
+
+/guides/abstract-types                                        https://nexusjs.org/docs/guides/abstract-types 301!
+/guides/abstract-types/modular-strategy                       https://nexusjs.org/docs/guides/abstract-types#modular-strategy-istypeof 301!
+/guides/abstract-types/centralized-strategy                   https://nexusjs.org/docs/guides/abstract-types#centralized-strategy-resolvetype 301!
+/guides/abstract-types/discriminant-model-field-strategy      https://nexusjs.org/docs/guides/abstract-types#discriminant-model-field-dmf-strategy-__typename 301!
+/guides/abstract-types/using-multiple-strategies              https://nexusjs.org/docs/guides/abstract-types#multiple-strategies 301!
 
 # Nexus Transition
 
