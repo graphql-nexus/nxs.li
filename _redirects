@@ -44,6 +44,17 @@
 /unframework/migrate                  https://nexusjs.org/docs/adoption-guides/nexus-framework-users          301!
 /unframework/plugin/prisma/migrate    https://nexusjs.org/docs/adoption-guides/neuxs-framework-prisma-users   301!
 
+/guides/abstract-types                                        https://nexusjs.org/docs/guides/abstract-types 301!
+/guides/abstract-types/modular-strategy                       https://nexusjs.org/docs/guides/abstract-types#modular-strategy-istypeof 301!
+/guides/abstract-types/centralized-strategy                   https://nexusjs.org/docs/guides/abstract-types#centralized-strategy-resolvetype 301!
+/guides/abstract-types/discriminant-model-field-strategy      https://nexusjs.org/docs/guides/abstract-types#discriminant-model-field-dmf-strategy-__typename 301!
+/guides/abstract-types/using-multiple-strategies              https://nexusjs.org/docs/guides/abstract-types#multiple-strategies 301!
+
+/adoption-guides/nextjs-users                                 https://nexusjs.org/docs/adoption-guides/nextjs-users 301!
+/adoption-guides/prisma-users                                 https://nexusjs.org/docs/adoption-guides/prisma-users 301!
+/adoption-guides/nexus-framework-users                        https://nexusjs.org/docs/adoption-guides/nexus-framework-users 301!
+/adoption-guides/neuxs-framework-prisma-users                 https://nexusjs.org/docs/adoption-guides/neuxs-framework-prisma-users 301!
+
 #
 #
 #
@@ -77,19 +88,12 @@
 /docs/api/server          https://nexusjs.org/docs     301!
 
 # Guide Documentation
-# TODO  deprecate /docs/guides to be just /guides
 
 /docs/guides/logger                     https://nexusjs.org/docs      301!
 /docs/guides/server                     https://nexusjs.org/docs      301!
 /docs/guides/plugins                    https://nexusjs.org/docs      301!
 /docs/guides/settings                   https://nexusjs.org/docs      301!
 /docs/guides/configuration-management   https://nexusjs.org/docs      301!
-
-/guides/abstract-types                                        https://nexusjs.org/docs/guides/abstract-types 301!
-/guides/abstract-types/modular-strategy                       https://nexusjs.org/docs/guides/abstract-types#modular-strategy-istypeof 301!
-/guides/abstract-types/centralized-strategy                   https://nexusjs.org/docs/guides/abstract-types#centralized-strategy-resolvetype 301!
-/guides/abstract-types/discriminant-model-field-strategy      https://nexusjs.org/docs/guides/abstract-types#discriminant-model-field-dmf-strategy-__typename 301!
-/guides/abstract-types/using-multiple-strategies              https://nexusjs.org/docs/guides/abstract-types#multiple-strategies 301!
 
 # Nexus Transition
 
