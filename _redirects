@@ -68,6 +68,10 @@
 /docs/guides/schema https://nexusjs.org/docs/guides/schema 301! # DEPRECATED
 
 /guides/schema                                                https://nexusjs.org/docs/guides/schema 301!
+/guides/nullability https://nexusjs.org/docs/guides/schema#nullability-in-principle 301!
+/guides/backing-types https://nexusjs.org/docs/guides/backing-types 301!
+# TODO use a real guide
+/guides/reflection https://nexusjs.org/docs/getting-started/tutorial/chapter-writing-your-first-schema#reflection 301!
 
 /guides/abstract-types                                        https://nexusjs.org/docs/guides/abstract-types 301!
 /guides/abstract-types/modular-strategy                       https://nexusjs.org/docs/guides/abstract-types#modular-strategy-istypeof 301!
