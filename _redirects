@@ -1,4 +1,5 @@
-# Community
+# Shortcuts
+# ---------
 
 /repo                  https://github.com/graphql-nexus/schema                                  301!
 /tweets                https://twitter.com/nexusgql                                             301!
@@ -9,40 +10,64 @@
 /docs                  https://nexusjs.org/docs                                                 301!
 /discussions           https://prisma.slack.com/archives/CM2LEN7JL                              301!
 
+
+
 # Tools
+# -----
 
 /tools/converter       https://nexusjs.org/converter                                            301!
 /tools/playground      https://codesandbox.io/s/introductory-nexus-graphql-api-pk0qr?file=/src/README.md 301!
 /playground            https://codesandbox.io/s/introductory-nexus-graphql-api-pk0qr?file=/src/README.md 301!
 
+
+
 # Learning Resources
+# ------------------
 
 /learn/tutorial        https://nexusjs.org/docs/getting-started/tutorial                        301!
 /learn/examples        https://github.com/graphql-nexus/schema/tree/develop/examples            301!
 
+
+
 # Issues
+# ------
 
 /issues                https://github.com/graphql-nexus/schema/issues                           301!
 
-# Create Issues
-# These are useful, for example, to embed links within terminal output asking for feedback
+## Create Issues
+## These are useful, for example, to embed links within terminal output asking for feedback
 
 /prisma/issue/feature/new https://github.com/graphql-nexus/nexus-plugin-prisma/issues/new?assignees=&labels=type%2Ffeat%2C+plugin%2Fprisma&template=11-feature-prisma.md&title= 301!
-/prisma/issue/bug/new https://github.com/graphql-nexus/nexus-plugin-prisma/issues/new?assignees=&labels=type%2Fbug%2C+plugin%2Fprisma&template=21-bug-prisma.md&title= 301!
+/prisma/issue/bug/new     https://github.com/graphql-nexus/nexus-plugin-prisma/issues/new?assignees=&labels=type%2Fbug%2C+plugin%2Fprisma&template=21-bug-prisma.md&title= 301!
 
-/issues/create/feature https://github.com/graphql-nexus/schema/issues/new?labels=type%2Ffeat&template=10-feature.md          301!
-/issues/create/bug https://github.com/graphql-nexus/schema/issues/new?assignees=&labels=type%2Fbug&template=20-bug.md&title= 301!
+/issues/create/feature    https://github.com/graphql-nexus/schema/issues/new?labels=type%2Ffeat&template=10-feature.md          301!
+/issues/create/bug        https://github.com/graphql-nexus/schema/issues/new?assignees=&labels=type%2Fbug&template=20-bug.md&title= 301!
 
-# Documentation
 
-/docs/guides/schema       https://nexusjs.org/docs/guides/schema       301!
-/docs/api/schema          https://nexusjs.org/docs                     301!
+
+# Plugin Documentation
+# -------------
+
 /plugins/prisma           https://nexusjs.org/docs/pluginss/prisma     301!
 
-# Nexus Unframework Transition
-/unframework/about                    https://github.com/prisma-labs/graphql-framework-experiment/issues/1432 301!
-/unframework/migrate                  https://nexusjs.org/docs/adoption-guides/nexus-framework-users          301!
-/unframework/plugin/prisma/migrate    https://nexusjs.org/docs/adoption-guides/neuxs-framework-prisma-users   301!
+
+
+# API Documentation
+# -----------------
+# DEPRECATED
+/docs/api/schema https://nexusjs.org/docs 301!
+
+/docs/api/object-type                                         https://nexusjs.org/docs/api/object-type 301!
+
+
+
+# Guides
+# ------
+
+# DEPRECATED /docs/guides for just /guides
+/docs/guides/schema https://nexusjs.org/docs/guides/schema 301! # DEPRECATED
+
+/guides/schema                                                https://nexusjs.org/docs/guides/schema 301!
 
 /guides/abstract-types                                        https://nexusjs.org/docs/guides/abstract-types 301!
 /guides/abstract-types/modular-strategy                       https://nexusjs.org/docs/guides/abstract-types#modular-strategy-istypeof 301!
@@ -50,10 +75,24 @@
 /guides/abstract-types/discriminant-model-field-strategy      https://nexusjs.org/docs/guides/abstract-types#discriminant-model-field-dmf-strategy-__typename 301!
 /guides/abstract-types/using-multiple-strategies              https://nexusjs.org/docs/guides/abstract-types#multiple-strategies 301!
 
+
+
+# Adoption Guides
+# ---------------
+
 /adoption-guides/nextjs-users                                 https://nexusjs.org/docs/adoption-guides/nextjs-users 301!
 /adoption-guides/prisma-users                                 https://nexusjs.org/docs/adoption-guides/prisma-users 301!
 /adoption-guides/nexus-framework-users                        https://nexusjs.org/docs/adoption-guides/nexus-framework-users 301!
 /adoption-guides/neuxs-framework-prisma-users                 https://nexusjs.org/docs/adoption-guides/neuxs-framework-prisma-users 301!
+
+
+
+# Nexus Unframework Transition
+# ----------------------------
+
+/unframework/about                    https://github.com/prisma-labs/graphql-framework-experiment/issues/1432 301!
+/unframework/migrate                  https://nexusjs.org/docs/adoption-guides/nexus-framework-users          301!
+/unframework/plugin/prisma/migrate    https://nexusjs.org/docs/adoption-guides/neuxs-framework-prisma-users   301!
 
 #
 #
@@ -62,6 +101,7 @@
 #
 #
 #
+
 
 # Issues By Component
 /issues/components/schema            https://github.com/graphql-nexus/schema/issues?q=is%3Aopen                        301!
