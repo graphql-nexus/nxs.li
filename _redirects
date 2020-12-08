@@ -59,6 +59,9 @@
 
 /docs/api/object-type                                         https://nexusjs.org/docs/api/object-type 301!
 /docs/api/extend-type                                         https://nexusjs.org/docs/api/extend-type 301!
+/docs/api/list                                                https://nexusjs.org/docs/api/list-nonNull#list 301!
+/docs/api/nonNull                                             https://nexusjs.org/docs/api/list-nonNull#nonnull 301!
+/docs/api/nullable                                            https://nexusjs.org/docs/api/list-nonNull#nullable 301!
 
 
 
@@ -70,7 +73,7 @@
 
 /guides/schema                                                https://nexusjs.org/docs/guides/schema 301!
 /guides/nullability                                           https://nexusjs.org/docs/guides/nullability 301!
-/guides/backing-types                                         https://nexusjs.org/docs/guides/backing-types 301!
+/guides/backing-types                                         https://nexusjs.org/docs/guides/source-types 301!
 # TODO use a real guide
 /guides/reflection                                            https://nexusjs.org/docs/getting-started/tutorial/chapter-writing-your-first-schema#reflection 301!
 /guides/abstract-types                                        https://nexusjs.org/docs/guides/abstract-types 301!
