@@ -62,6 +62,9 @@
 /docs/api/list                                                https://nexusjs.org/docs/api/list-nonNull#list 301!
 /docs/api/nonNull                                             https://nexusjs.org/docs/api/list-nonNull#nonnull 301!
 /docs/api/nullable                                            https://nexusjs.org/docs/api/list-nonNull#nullable 301!
+/docs/api/mutation-field                                      https://nexusjs.org/docs/api/mutation-field
+/docs/api/query-field                                         https://nexusjs.org/docs/api/query-field
+/docs/api/subscription-field                                  https://nexusjs.org/docs/api/subscription-field
 
 
 
