@@ -65,6 +65,8 @@
 /docs/api/mutation-field                                      https://nexusjs.org/docs/api/mutation-field
 /docs/api/query-field                                         https://nexusjs.org/docs/api/query-field
 /docs/api/subscription-field                                  https://nexusjs.org/docs/api/subscription-field
+/docs/api/interface-type                                      https://nexusjs.org/docs/api/interface-type
+/docs/api/union-type                                          https://nexusjs.org/docs/api/union-type
 
 
 
