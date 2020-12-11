@@ -85,6 +85,10 @@
 /guides/abstract-types/discriminant-model-field-strategy      https://nexusjs.org/docs/guides/abstract-types#discriminant-model-field-dmf-strategy-__typename 301!
 /guides/abstract-types/using-multiple-strategies              https://nexusjs.org/docs/guides/abstract-types#multiple-strategies 301!
 
+# Examples
+# --------
+
+/examples/subscriptions                                       https://codesandbox.io/s/nexus-example-subscriptions-59kdb?file=
 
 
 # Adoption Guides
