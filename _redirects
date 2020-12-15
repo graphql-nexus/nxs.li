@@ -3,7 +3,7 @@
 
 /repo                  https://github.com/graphql-nexus/schema                                  301!
 /tweets                https://twitter.com/nexusgql                                             301!
-/contributing          https://github.com/graphql-nexus/schema/blob/develop/CONTRIBUTING.md     301!
+/contributing          https://github.com/graphql-nexus/schema/blob/main/CONTRIBUTING.md        301!
 /changelog             https://github.com/graphql-nexus/schema/releases                         301!
 /changelog/canary      https://github.com/graphql-nexus/schema/releases/tag/next                301!
 /roadmap               https://github.com/orgs/graphql-nexus/projects/1                         301!
@@ -25,7 +25,7 @@
 # ------------------
 
 /learn/tutorial        https://nexusjs.org/docs/getting-started/tutorial                        301!
-/learn/examples        https://github.com/graphql-nexus/schema/tree/develop/examples            301!
+/learn/examples        https://github.com/graphql-nexus/schema/tree/main/examples               301!
 
 
 
