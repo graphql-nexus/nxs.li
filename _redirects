@@ -15,9 +15,12 @@
 # Tools
 # -----
 
-/tools/converter       https://nexusjs.org/converter                                                     301!
-/tools/playground      https://codesandbox.io/s/introductory-nexus-graphql-api-pk0qr?file=/src/README.md 301!
-/playground            https://codesandbox.io/s/introductory-nexus-graphql-api-pk0qr?file=/src/README.md 301!
+/tools/converter          https://nexusjs.org/converter                                                     301!
+/tools/playground         https://codesandbox.io/s/introductory-nexus-graphql-api-pk0qr?file=/src/README.md 301!
+/playground               https://codesandbox.io/s/introductory-nexus-graphql-api-pk0qr?file=/src/README.md 301!
+/playground/introduction  https://codesandbox.io/s/introductory-nexus-graphql-api-pk0qr?file=/src/README.md 301!
+/playground/nextjs        https://codesandbox.io/s/nexus-example-nextjs-b7055?file=/README.md 301!
+/playground/subscriptions https://codesandbox.io/s/nexus-example-subscriptions-59kdb?file=/README.md 301!
 
 
 
